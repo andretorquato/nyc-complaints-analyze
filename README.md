@@ -5,7 +5,7 @@ Projeto NYC 311 para análise de performance de queries e índices.
 ## Estrutura
 
 ```
-v2/
+nyc-complaints-analyze/
 ├── docker-compose.yml      # Configuração Docker (postgres, grafana, pgadmin)
 ├── cli.py                  # CLI simplificado com 5 comandos
 ├── import_data.py          # Script de importação simplificado
