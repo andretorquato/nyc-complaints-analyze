@@ -1,6 +1,6 @@
-# NYC 311 Complaints - Versão 2 (Simplificada)
+# NYC 311 Complaints
 
-Versão simplificada do projeto NYC 311 para análise de performance de queries e índices.
+Projeto NYC 311 para análise de performance de queries e índices.
 
 ## Estrutura
 
@@ -106,3 +106,7 @@ pip install -r requirements.txt
 
 ## Grafana
 - Validar conexão com o Postgres antes de acessar o dashboard
+
+### Dashboard
+
+![Grafana Dashboard](assets/image.png)
