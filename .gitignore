@@ -1,0 +1,23 @@
+# Arquivos de ambiente
+.env
+*.env.local
+
+# Dados do PostgreSQL (volumes Docker)
+postgres/data/
+
+# Dados do Grafana (volumes Docker)
+grafana/data/
+
+# Arquivos temporários
+*.log
+*.tmp
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+data/*
